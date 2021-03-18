@@ -6,6 +6,7 @@
 p {padding-left: 10px}
 h4 {padding-left: 10px}
 
+
 /*body {
 background-image:url('portrait.png');
 }*/
@@ -21,7 +22,7 @@ h1.name {
 h3.position {
 
   color: #FFFFFF;
-  color: #C49C3C;
+/*  color: #C49C3C;*/
   margin: 0px 0px 20px;
   padding-left: 70px;
   font-size: 2.0em;
@@ -40,7 +41,7 @@ h3.subheader {
 
 div.title {
 
-/*background-image:url('title.jpg');*/
+background-image:url('title.jpg');
     background-color: #255489;
     /*background-color: #5083C0;*/
     /*background-color: #264a93;*/
